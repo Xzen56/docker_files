@@ -1,4 +1,4 @@
 FROM almalinux:9
 
-LABEL course = "docker" \
-      Trainer = "Surya"
+LABEL course="docker" \
+      Trainer="Surya"
